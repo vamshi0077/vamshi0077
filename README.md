@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...You can reach me through my email id --->  vamshipalakoori@gmail.com
+- 📫 You can reach me through my email id --->  vamshipalakoori@gmail.com
 
 <!---
 vamshi0077/vamshi0077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
